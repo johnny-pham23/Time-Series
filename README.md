@@ -7,7 +7,7 @@ The hourly power consumption data comes from PJM's website and are in megawatts 
 # Data Structure
 
 Datetime | zone_load_MW | tmpf | hour | month | dayofweek  
------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ---------- 
+-------- | -------------| ---- | ---- | ----- | --------
 Datetime | zone_load_MW | tmpf | hour | month | dayofweek 
 
 
