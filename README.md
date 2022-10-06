@@ -14,9 +14,9 @@ Datetime | zone_load_MW | tmpf | hour | month | dayofweek
 # Goals
 
 ## To Do
-- [] Split dataset to test/train
-- [] Build model
-- [] validate model
+- Split dataset to test/train
+- Build model
+- Validate model
 
 ## Completed 
 - Check null/missing values in load profile.
