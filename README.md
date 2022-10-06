@@ -8,6 +8,17 @@ The hourly power consumption data comes from PJM's website and are in megawatts 
 
 Datetime | zone_load_MW | tmpf | hour | month | dayofweek  
 -------- | -------------| ---- | ---- | ----- | --------
-Datetime | zone_load_MW | tmpf | hour | month | dayofweek 
+2004-10-02 00:00:00 | 13147.0 | 69.08 | 0 | 10 | 2 
 
 
+# Goals
+
+# To Do
+- [] Split dataset to test/train
+- [] Build model
+- [] validate model
+
+# Completed 
+- Check null/missing values in load profile.
+- Merge load data to temperature data using datetime as key.
+- Drop null values created from merge
