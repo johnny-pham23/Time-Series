@@ -13,12 +13,12 @@ Datetime | zone_load_MW | tmpf | hour | month | dayofweek
 
 # Goals
 
-# To Do
+## To Do
 - [] Split dataset to test/train
 - [] Build model
 - [] validate model
 
-# Completed 
+## Completed 
 - Check null/missing values in load profile.
 - Merge load data to temperature data using datetime as key.
 - Drop null values created from merge
