@@ -21,6 +21,7 @@ Datetime | zone_load_MW | tmpf | hour | month | dayofweek
 # Goals
 
 ## To Do
+- Visualize lag plots to see if autocorelation is present
 - Split dataset to test/train
 - Build model
 - Validate model
